@@ -1,4 +1,4 @@
-Hello! This is the repository for Group 1 for COMP 4710: Senior Design Project in the Spring 2019 semester.
+Hello! This is the repository for Group 4 for COMP 4710: Senior Design Project in the Fall 2020 semester.
 We are working on a booking system for Music Matters, located in Montgomery, AL.
 If you're looking at this, you are presumably:
 
