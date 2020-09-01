@@ -218,7 +218,7 @@ export class ClientView extends React.Component {
                         value = {this.state.splitCheck}
                         onValueChange = {(value) => {
                             this.setState({splitCheck: value});
-                        }}
+                        } } 
                     /> */}
 
               {/* Bio Input */}
